@@ -1,0 +1,2 @@
+[console_scripts]
+prime = prime.cli.main:main
